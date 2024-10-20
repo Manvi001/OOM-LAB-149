@@ -1,0 +1,10 @@
+class diagram including --
+  attributes , 
+  operations ,
+  multiplicity , 
+  association class , 
+  associations , 
+  bags , 
+  sequence , 
+  aggregation , 
+  composition;
