@@ -1,6 +1,9 @@
 Applying the concepts of object oriented modelling including
+
 SRS DOCUMENT
+
 CLASS DIAGRAM 
+
 ADVANCED CLASS DIAGRAM---
      ATTRIBUTES
      OPERATIONS
@@ -11,8 +14,9 @@ ADVANCED CLASS DIAGRAM---
      SEQUENCES
      GENERALISATION
      ABSTRACT CLASSES
+     
 ADVANCED STATE DIAGRAM---
-     do activity
+       do activity
      
 ADVANCED USECASE DIAGRAM---
      include , extend , generalisation
